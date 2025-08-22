@@ -1,2 +1,5 @@
 # Hello-world
-My first repository 
+My first repository
+
+X = input("enter string")
+Print(x)
